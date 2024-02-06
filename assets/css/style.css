@@ -56,13 +56,11 @@ main {
 }
 
 .start-btn {
-    background-color: green;
+    background: green;
 }
-
 .pause-btn {
-    background-color: gray;
+    background: gray;
 }
-
 .stop-btn {
-    background-color: red;
+    background: red;
 }
