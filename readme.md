@@ -1,6 +1,6 @@
 ## Cronômetro com HTML, CSS e JAVASCRIPT
 
-### 🌐 Font
+### 🌐 Fonte
 Vídeo [Criando um cronômetro com JavaScript](https://youtu.be/msyTjg3t4Z8?si=e0zCxHGGHrW4Clh3) do Leo Ujo
 
 ### 📸 Screenshot
